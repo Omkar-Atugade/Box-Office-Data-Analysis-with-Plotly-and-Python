@@ -9,7 +9,7 @@ I have primarily use Plotly for data visualization. Plotly Python which is Plotl
 
 ## About Me 
 Omkar Atugade,<br>
-Mumbai, Maharashtram, India.
+Mumbai, Maharashtra, India.
 
 ## Follow me on:
 [Instagram](https://www.instagram.com/omi_atugade)<br>
